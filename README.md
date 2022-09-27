@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @xonzi
-- 👀  Web  Proramlama ve yazılım ile  ilgilenirim
-- 🌱 I’m currently JavaScript öğreniyorum
-- 💞️ Frontend tasarımlarınız için işbirliği 
+- 👋 Hi I'm @xonzi
+- 👀  I work in the field of web programming and software.
+- 🌱 I'm currently learning JavaScript
+- 💞️ Let's collaborate for your frontend designs
 - 📫 How to reach me :  srknmcttr@gmail.com
 
 <!---
